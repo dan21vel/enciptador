@@ -18,10 +18,10 @@ body{
 
 .encripta{
     position: absolute;
-    width: 400px;
-    height: 350px;
-    left: 170px;
-    top: 120px;
+    width: 60%;
+    height: 50%;
+    left: 20%;
+    top: 20%;
     padding: 20px;
 }
 
@@ -57,9 +57,9 @@ body{
 
 .desencripta{
     position: absolute;
-    width: 320px;
-    height: 600px;
-    left: 800px;
+    width: 35%;
+    height: 90%;
+    left: 90%;
     padding: 10px;
 }
 
@@ -72,16 +72,16 @@ body{
     gap: 24px;
 
     position: absolute;
-    width: 400px;
-    height: 67px;
-    left: 240px;
-    bottom: 50px;
+    width: 50%;
+    height: 10%;
+    left: 30%;
+    bottom: 10%;
 }
 
 .btnencripta{
 
-    width: 200px;
-    height: 50px;
+    width: 45%;
+    height: 90%;
     font-size: 16px;
     color: white;
     background: #0A3871;
@@ -91,8 +91,8 @@ body{
 }
 
 .btndesencripta{
-    width: 200px;
-    height: 50px;
+    width: 45%;
+    height: 90%;
     background: #D8DFE8;
     border: 1px solid #0A3871;
     border-radius: 18px;
@@ -102,8 +102,8 @@ body{
 
 .botones2{
     position: absolute;
-    left: 840px;
-    top: 520px;
+    left: 94%;
+    top: 75%;
     display: none;
 }
 
